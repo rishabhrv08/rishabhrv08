@@ -13,7 +13,7 @@
 
 ### 🔹 My Projects 
 - ✈️ [Military Aircraft Detection & Classification](https://github.com/rishabhrv08/Military_aircraft_detection_and_classification)  
-- 🎓 [Lawyer Case Management System (C++)](#)  
+- 🎓 [Lawyer Case Management System (C++ and Python)](#)  
 - 📊 [Product Management Case Studies](#)  
 - 📱 [Food Truck Mobile App (Figma Design)](#)  
 
