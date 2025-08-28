@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Hi%20there,%20I'm%20Rishabh%20Vyas%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
-🚀 **Product Management | AI - LLMs | Deep Learning | UX Research**  
+🚀 **Product Management | AI - LLMs | Deep Learning | UX Research | Music | Events | Event Management**  
 
 ---
 
