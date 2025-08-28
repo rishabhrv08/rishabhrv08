@@ -36,7 +36,7 @@
 
 ---
 
-### 🎶 Music Corner
+### 🎶 Music Corner (Originals)
 - 🎶 *Bata Kyun* 
 - 🎵 *Longing for Love*  
 
