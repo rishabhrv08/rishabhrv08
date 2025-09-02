@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Rishabh%20Vyas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Product%20Manager%20%7C%20AI%20Enthusiast%20%7C%20Musician&descSize=18&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Rishabh%20Vyas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Product%20Management%20%7C%20AI%20-%20LLMs%20%7C%20Music&descSize=18&descAlignY=65)
 
 <div align="center">
 
@@ -6,23 +6,18 @@
 
 *Bridging technology and user experience through strategic product thinking*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rv08/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhvyas808@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabh.vy)
-
 </div>
 
 ---
 
 ## 👨‍💼 Professional Overview
 
-> **Product Manager** passionate about leveraging AI/ML technologies to create user-centric solutions that drive business impact
+> **Product Management enthusiast,** passionate about leveraging AI/ML technologies to create user-centric solutions that drive business impact
 
 - 🎓 **B.Tech** in Electronics & Computer Engineering
-- 💡 **5+ years** exploring Product Management, AI/ML, and Deep Learning
-- 🎵 **Creative Professional** - Musician with original compositions
+- 💡 **Exploring** Product Management, AI/ML, and Deep Learning
 - 📊 **Data-Driven** approach to product strategy and user experience optimization
-
+- 🎵 **Creative Professional** - Musician with original compositions
 ---
 
 ## 🔥 Core Competencies
@@ -33,37 +28,37 @@
 ![Strategy](https://img.shields.io/badge/Product_Strategy-FF6B6B?style=flat-square&logo=target&logoColor=white)
 ![User Research](https://img.shields.io/badge/User_Research-4ECDC4?style=flat-square&logo=user-check&logoColor=white)
 ![Roadmapping](https://img.shields.io/badge/Roadmapping-45B7D1?style=flat-square&logo=map&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-96CEB4?style=flat-square&logo=bar-chart&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Collaboration-4ECDC4?style=flat-square&logo=user-check&logoColor=white)
 
 ### Methodologies & Frameworks
 ![AGILE](https://img.shields.io/badge/AGILE-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat-square&logo=scrumalliance&logoColor=white)
 ![KANBAN](https://img.shields.io/badge/KANBAN-FF9500?style=flat-square&logo=kanban&logoColor=white)
-![Design Thinking](https://img.shields.io/badge/Design_Thinking-FF0080?style=flat-square&logo=lightbulb&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-FF0080?style=flat-square&logo=lightbulb&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Featured Product Case Studies & Projects
+## 💼 Featured Case Studies & Projects
 
-### 🤖 **AI-Powered Product Solutions**
-- **[AI Assistant for Food Delivery Optimization](https://github.com/rishabhrv08/product_case_study_AI_Assistant)**
-  - *Product Strategy • User Journey Mapping • AI Integration*
-  - Designed intelligent recommendation system increasing user engagement by 40%
+### 
+- **[AI Assistant for Food Delivery App - Product Management Case Study](https://github.com/rishabhrv08/product_case_study_AI_Assistant)**
+  - *Product Strategy • User Journey Mapping • Jira Collaboration*
+  - Intelligent AI based feature for enhancing user convenience
 
-- **[Military Aircraft Detection System](https://github.com/rishabhrv08/Military_aircraft_detection_and_classification)**
-  - *Computer Vision • Deep Learning • Model Deployment*
-  - Achieved 95% accuracy in real-time aircraft classification
+- **[Military Aircraft Detection System - Deep Learning](https://github.com/rishabhrv08/Military_aircraft_detection_and_classification)**
+  - *EfficientNet • Deep Learning • Spatial Attention Mechanism*
+  - Image and video based classification
 
-### 📱 **UX/UI & Product Design**
-- **[Food Truck Mobile App - Complete Product Suite](https://docs.google.com/presentation/d/1lvfT9uqUxQjXrQ_0ARXD8NwYdbxZ50F3oggj6ov7g3g/edit?usp=sharing)**
-  - *Market Research • User Personas • Wireframing • Prototyping*
+### 
+- **[Food Truck Mobile App - UX/UI Case study and design](https://docs.google.com/presentation/d/1lvfT9uqUxQjXrQ_0ARXD8NwYdbxZ50F3oggj6ov7g3g/edit?usp=sharing)**
+  - *User Personas • Competitive Analysis • Wireframing • Prototyping*
   - End-to-end product design from concept to high-fidelity prototype
 
 - **[Legal Case Management Platform](https://github.com/rishabhrv08/lawyer_case_management)**
-  - *Process Optimization • System Architecture • User Experience*
-  - Streamlined workflow reducing case processing time by 60%
+  - *C++/Python • Data file handling • Software*
+  - A menu-driven app to help lawyers organise their clients' data
 
 ---
 
@@ -71,10 +66,15 @@
 
 <div align="center">
 
+### Product & Design Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 ### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -82,17 +82,12 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Product & Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Current Focus Areas
+<!-- ## 📈 Current Focus Areas
 
 <table>
 <tr>
@@ -118,20 +113,21 @@
 </table>
 
 ---
+-->
 
 ## 🎶 Creative Endeavors
 
 > *"Innovation thrives at the intersection of technology and creativity"*
 
 **Original Music Compositions:**
-- 🎵 **"Bata Kyun"** - *A soulful melody exploring human connections*
-- 💕 **"Longing for Love"** - *An emotional journey through modern relationships*
+- 🎵 [**Bata Kyun**](https://open.spotify.com/track/7GPPeaQrrQnFNDCecbRVnh?si=91e4b55691b54e41) - *An indie young romantic composition*
+- 💕 [**Longing for Love**](https://open.spotify.com/track/3lY4wZdNdFpbCsF21IKzHh?si=3f49561e628f4b58) - *An emotional journey through modern relationships*
 
 *Music fuels my creative thinking and enhances my approach to product innovation*
 
 ---
 
-## 📊 GitHub Analytics
+<!--## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -141,7 +137,7 @@
 </div>
 
 ---
-
+-->
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
@@ -149,8 +145,9 @@
 ### 💬 Open to discussing:
 **Product Strategy** • **AI Innovation** • **User Experience** • **Music Collaboration** • **Tech Leadership**
 
-[![LinkedIn](https://img.shields.io/badge/Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rv08/) 
-[![Email](https://img.shields.io/badge/Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhvyas808@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rv08/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhvyas808@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rishabh.vy)
 
 </div>
 
