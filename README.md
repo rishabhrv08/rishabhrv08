@@ -12,7 +12,7 @@
 ---
 
 ### 🔹 My Projects 
-- 📊 [AI Assistant for Food Delivery App (Product Management Case Study)]() 
+- 📊 [AI Assistant for Food Delivery App (Product Management Case Study)](https://github.com/rishabhrv08/product_case_study_AI_Assistant) 
 - ✈️ [Military Aircraft Detection & Classification (Deep Learning)](https://github.com/rishabhrv08/Military_aircraft_detection_and_classification)  
 - 🎓 [Lawyer Case Management System (C++ and Python)](https://github.com/rishabhrv08/lawyer_case_management)   
 - 📱 [Food Truck Mobile App (Case study and Figma design)](https://docs.google.com/presentation/d/1lvfT9uqUxQjXrQ_0ARXD8NwYdbxZ50F3oggj6ov7g3g/edit?usp=sharing)  
